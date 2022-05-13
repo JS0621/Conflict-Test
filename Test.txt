@@ -1,16 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Victoria Briceno
-=======
-Ruben Lozano
->>>>>>> 5619eedb4e957426bc3d922de966d265ad2aa954
 
-Victoria Briceno trying to test
-
-Victoria trying to resolve the conflicts
-
-Sebastian trying Pushing
-=======
-Sebastian Jazmin
-Victoria Briceno
->>>>>>> a989490c33746e76f64f940ba436f17ae9862a20
