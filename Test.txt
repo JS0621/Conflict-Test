@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Victoria Briceno
+=======
+Ruben Lozano
+>>>>>>> 5619eedb4e957426bc3d922de966d265ad2aa954
